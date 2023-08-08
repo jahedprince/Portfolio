@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "description_header": "Hey there! 👋",
+    "description": " I'm Jahed Prince, a creative and driven Full Stack Software Engineer with a passion for crafting innovative solutions. With a Computer Science degree from The Grove School of Engineering (CCNY) and a Web Development certificate from Fullstack Academy, I've honed my skills over 2 years of professional experience. From tackling complex challenges to collaborating seamlessly with teams, I thrive on bringing remarkable software ideas to life. My toolbox includes an array of exciting technologies such as JavaScript, C++, Java, React.js, Next.js, Express, Node.js, PostgreSQL, HTML, and CSS, all of which I use to build exceptional applications that captivate users. Beyond the realm of coding, I find joy in exploring the world as an adventurous traveler and capturing special moments as a photography enthusiast. Embracing a healthy lifestyle is vital to me, and you might find me at the gym, fueling my dedication to both personal and professional growth. To delve deeper into my story and learn more about me, please continue reading below. Thank you! 👨🏽‍💻✈️📸💪",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Education & Experience",
+      "photography": "Photography"
+    }
+  },
+  "projects": [
+    {
+      "title": "Peak",
+      "startDate": "2023",
+      "description": "The most expanded application I had opportunity to work with. I've learned new technologies and got a feel of the entire software development lifecycle (SDLC) from start to finish. Application is dedicated to health, enabling users to monitor their meals and workouts while also engaging with friends.",
+      "images": [
+        "images/portfolio/peak/peak.png",
+        "images/portfolio/peak/peak1.png",
+        "images/portfolio/peak/peak2.png",
+        "images/portfolio/peak/peak3.png",
+        "images/portfolio/peak/peak4.png"
+      ],
+      "url": "https://peakfitness.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
+    },
+    {
+      "title": "SoleQuest",
+      "startDate": "2023",
+      "description": "Sole Quest is an E-commerce site that sells the most limited and exclusive sneakers. On the site, users are able to add items to cart, go through a checkout system, and purchase products. Users with admin access are able to add, edit, and delete products.",
+      "images": [
+        "images/portfolio/soleQuest/solequest.png",
+        "images/portfolio/soleQuest/solequest2.png",
+        "images/portfolio/soleQuest/solequest3.png",
+        "images/portfolio/soleQuest/solequest4.png"
+      ],
+      "url": "https://github.com/2211-Postman/grace-shopper",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "MaterialUI"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
+    },
+    {
+      "title": "Hogwarts Administration",
+      "startDate": "2022",
+      "description": "Ah, what an enchanting project it was! I delved into the magical world of web development, crafting a wondrous Harry Potter-inspired web platform that brought campuses and students to life. With the spellbinding powers of React and Redux, I conjured an engaging front-end interface, seamlessly managing student and campus data using Axios to perform delightful API interactions. Embracing the arcane arts of Redux Toolkit and React-Redux, I harnessed the true potential of frontend magic. The captivating experience expanded my coding prowess, leaving me eager for more thrilling web development quests in the future! ⚡️🧙‍♂️🌟",
+      "images": [
+        "images/portfolio/hogwarts/hogwarts.png",
+        "images/portfolio/hogwarts/hogwarts1.png",
+        "images/portfolio/hogwarts/hogwarts3.png",
+        "images/portfolio/hogwarts/hogwarts4.png"
+      ],
+      "url": "https://hogwartsschool-156e68ebb527.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-sequelize-plain",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "City College of New York (CUNY)",
+      "title": "Student (Computer Science)",
+      "years": "Aug 2017 - Jun 2022",
+      "mainTech": ["C++"],
+      "technologies": [
+        "Data Structures",
+        "Algorithms",
+        "Object Oriented Programming",
+        "Operating Systems",
+        "Introduction to Database Systems",
+        "Theoretical Computer Science"
+      ]
+    },
+    {
+      "company": "The Bronx is Blooming",
+      "title": "Software Engineering Intern",
+      "years": "Feb 2020 - Oct 2020",
+      "mainTech": ["JavaScript"],
+      "technologies": ["JavaScript", "HTML", "CSS", "Agile Methodologies"]
+    },
+    {
+      "company": "Center for Worker Education",
+      "title": "Software Engineering Intern",
+      "years": "Jan 2021 - Aug 2022",
+      "mainTech": ["JavaScript"],
+      "technologies": [
+        "JavaScript",
+        "NodeJs",
+        "HTML",
+        "CSS",
+        "Rest APIs",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "company": "Fullstack Academy",
+      "title": "Student",
+      "years": "Aug 2017 - Jun 2022",
+      "mainTech": ["JavaScript"],
+      "technologies": [
+        "JavaScript",
+        "ReactJS",
+        "NodeJS",
+        "PostgreSQL",
+        "Express",
+        "CSS",
+        "HTML"
+      ]
+    }
+  ],
+  "photography": [
+    {
+      "title": "Spain",
+      "date": "June 2022",
+      "description": "A collection of stunning landscapes and architecture captured during my time in Spain.",
+      "images": [
+        "images/photography/spain/spain1.jpg",
+        "images/photography/nature2.jpg",
+        "images/photography/nature3.jpg"
+      ]
+    },
+    {
+      "title": "Dubai",
+      "date": "March 2022",
+      "description": "An assortment of captivating landscapes and architectural marvels captured while I was in Dubai.",
+      "images": [
+        "images/photography/dubai/dubai1.jpg",
+        "images/photography/nature2.jpg",
+        "images/photography/nature3.jpg"
+      ]
+    },
+    {
+      "title": "Bangladesh",
+      "date": "January 2022",
+      "description": "A series of natural landscapes and architectural captures from my experiences in Bangladesh.",
+      "images": [
+        "images/photography/bangladesh/bd1.jpg",
+        "images/photography/nature2.jpg",
+        "images/photography/nature3.jpg"
+      ]
+    }
+  ]
+}
