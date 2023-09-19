@@ -12,6 +12,41 @@
   },
   "projects": [
     {
+      "title": "TrailBlaze",
+      "startDate": "2023",
+      "description": "Welcome to the Mobile Expo React Native App, your ultimate companion for stress-free journey planning! With the power of AI, our app revolutionizes the way you plan your trips. Craft your dream adventures effortlessly using our intuitive itinerary builder. Create, save, and manage multiple travel plans with ease, ensuring that each expedition is a well-organized and unforgettable experience. Say farewell to travel hassles and embrace seamless exploration! Start your journey by easily creating a personalized account through the App Store. Begin your travel adventure effortlessly with our intuitive trip planning feature, adding activities to your itinerary as you go. Customize your trips to perfection by fine-tuning the AI-generated activities. Make every trip uniquely yours. Download the Mobile Expo React Native App on the Apple App Store today and embark on a journey of hassle-free exploration!",
+      "images": [
+        "images/portfolio/trailblaze/landing1.png",
+        "images/portfolio/trailblaze/home1.png",
+        "images/portfolio/trailblaze/profile1.png",
+        "images/portfolio/trailblaze/details1.png",
+        "images/portfolio/trailblaze/chat1.png"
+      ],
+      "url": "https://github.com/jahedprince/trailblaze",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-firebase-plain colored",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-figma-plain colored",
+          "name": "Figma"
+        },
+        {
+          "class": "devicon-redux-original colored",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-apple-original colored",
+          "name": "Apple"
+        }
+      ]
+    },
+    {
       "title": "Peak",
       "startDate": "2023",
       "description": "The most expanded application I had opportunity to work with. I've learned new technologies and got a feel of the entire software development lifecycle (SDLC) from start to finish. Application is dedicated to health, enabling users to monitor their meals and workouts while also engaging with friends.",
@@ -153,6 +188,13 @@
         "CSS",
         "HTML"
       ]
+    },
+    {
+      "company": "Scale AI",
+      "title": "Software Developer for AI Training",
+      "years": "Jun 2023 - Present",
+      "mainTech": ["JavaScript"],
+      "technologies": ["JavaScript", "C++", "NodeJS"]
     }
   ],
   "photography": [
