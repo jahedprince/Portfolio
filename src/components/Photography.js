@@ -44,8 +44,10 @@ class Photography extends Component {
           <h1 className="section-title" style={{ color: "black" }}>
             <span>{sectionName}</span>
           </h1>
-          <div className="col-md-12 mx-auto">
-            <div className="row mx-auto">{photographyProjects}</div>
+          <div className="row mx-auto projects-container">
+            <div className="row mx-auto projects-container">
+              {photographyProjects}
+            </div>
           </div>
         </div>
       </section>

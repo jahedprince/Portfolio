@@ -199,34 +199,28 @@
   ],
   "photography": [
     {
+      "title": "Portugal",
+      "date": "September 2023",
+      "description": "Breathtaking scenery and remarkable architecture captured during my visit to Portugal.",
+      "images": ["images/photography/portugal/portugal1.jpg"]
+    },
+    {
       "title": "Spain",
       "date": "June 2022",
       "description": "A collection of stunning landscapes and architecture captured during my time in Spain.",
-      "images": [
-        "images/photography/spain/spain1.jpg",
-        "images/photography/nature2.jpg",
-        "images/photography/nature3.jpg"
-      ]
+      "images": ["images/photography/spain/spain1.jpg"]
     },
     {
       "title": "Dubai",
       "date": "March 2022",
       "description": "An assortment of captivating landscapes and architectural marvels captured while I was in Dubai.",
-      "images": [
-        "images/photography/dubai/dubai1.jpg",
-        "images/photography/nature2.jpg",
-        "images/photography/nature3.jpg"
-      ]
+      "images": ["images/photography/dubai/dubai1.jpg"]
     },
     {
       "title": "Bangladesh",
       "date": "January 2022",
       "description": "A series of natural landscapes and architectural captures from my experiences in Bangladesh.",
-      "images": [
-        "images/photography/bangladesh/bd1.jpg",
-        "images/photography/nature2.jpg",
-        "images/photography/nature3.jpg"
-      ]
+      "images": ["images/photography/bangladesh/bd1.jpg"]
     }
   ]
 }
