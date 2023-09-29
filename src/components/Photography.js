@@ -26,7 +26,12 @@ class Photography extends Component {
                       position: "relative",
                     }}
                   />
-                  <span className="project-date">{project.date}</span>
+                  <span
+                    style={{ backgroundColor: "#333333" }}
+                    className="project-date"
+                  >
+                    {project.date}
+                  </span>
                   <br />
                   <p className="project-title-settings mt-3">{project.title}</p>
                   <p>{project.description}</p>
