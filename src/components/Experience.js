@@ -16,7 +16,7 @@ class Experience extends Component {
 
         var mainTech = mainTechnologies.map((technology, i) => {
           return (
-            <Badge pill className="main-badge bg-dark mr-2 mb-2" key={i}>
+            <Badge pill className="main-badge bg-secondary mr-2 mb-2" key={i}>
               {technology}
             </Badge>
           );
